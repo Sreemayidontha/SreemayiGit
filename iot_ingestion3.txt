@@ -1,3 +1,3 @@
 Ingesting the real-time data.
 
-Ingesting real time data
+Ingesting real time data.
